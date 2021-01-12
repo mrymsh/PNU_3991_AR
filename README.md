@@ -47,7 +47,6 @@
 
 --------------
 ## روز و ساعت ارائه دروس
-
 <table style="width:100%">
   <tr>
     <th >16-18</th>
@@ -57,6 +56,8 @@
     <th>8-10</th>
     <th>روز</th>
   </tr>
+  <tr>
+    <th >
     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
