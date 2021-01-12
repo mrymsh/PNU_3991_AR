@@ -57,7 +57,25 @@
     <th>روز</th>
   </tr>
   <tr>
-    <th >
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
+    <th>شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th ></th>
+    <th>یک شنبه</th>
+  </tr>
+   <tr>
+    <th ></th>
+    <th ></th>
+    <th ></th>
     <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">تعامل انسان و كامپيوتر</a></th>
     <th ></th>   
     <th>دوشنبه</th>
