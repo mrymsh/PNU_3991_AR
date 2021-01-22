@@ -1,0 +1,3 @@
+- معرفی یک درس مشابه در دانشگاههای دیگر<br>
+          - [oxford](https://global.oup.com/academic/category/science-and-mathematics/computer-science/human-computer-interaction/?cc=ro&lang=en&)<br>
+          - [university of oregon](https://communications.uoregon.edu/content/wireframes)
